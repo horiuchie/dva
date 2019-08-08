@@ -30,6 +30,7 @@ Lightweight front-end framework based on [redux](https://github.com/reactjs/redu
 * [github-stars](https://github.com/sorrycc/github-stars): ([Demo](http://sorrycc.github.io/github-stars/#/?_k=rmj86f))，Github star management application
 * [Account System](https://github.com/yvanwangl/AccountSystem.git): A small inventory management system
 * [react-native-dva-starter](https://github.com/nihgwu/react-native-dva-starter): react-native example integrated dva and react-navigation
+* [react-native-dva-starter-with-builtin-router](https://github.com/horiuchie/react-native-dva-starter-with-builtin-router): Integrate dva with react-native using built in router
 
 ## Quick Start
 
